@@ -1,0 +1,300 @@
+{
+    "filmes":[
+    {
+      "poster": "https://play-lh.googleusercontent.com/em2griqrHoxmxEss_WM5Fi2iqSEKrEfLNAltjX54lREOR0nz0du__KuSi2bA_YNjS4w",
+      "titulo":"Interstelar",
+      "sinopse":"Após ver a Terra consumindo boa parte de suas reservas naturais, um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper (Matthew McConaughey) é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand (Anne Hathaway), Jenkins (Marlon Sanders) e Doyle (Wes Bentley), ele seguirá em busca de uma nova casa. Com o passar dos anos, sua filha Murph (Mackenzie Foy e Jessica Chastain) investirá numa própria jornada para também tentar salvar a população do planeta.",
+      "genero":"Ficção cientifica/drama",
+      "diretor":"Christopher Nolan",
+      "duracao":"2h 49min",
+      "classificacao":"10 anos",
+      "id": 1
+    },
+    {
+      "poster": "https://static.wikia.nocookie.net/dccomicsextendeduniverse/images/c/c2/Legiao_2HMzudyVag0Y.jpg.jpeg/revision/latest?cb=20210313151130&path-prefix=pt-br",
+      "titulo":"Liga da Justiça de Zack Snyder",
+      "sinopse":"Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes o ataque ao planeta ainda pode ser catastrófico.",
+      "genero":"Ação/Aventura",
+      "diretor":"Zack Snyder",
+      "duracao":"4h 2min",
+      "classificacao":"16 anos",
+      "id": 2
+    },
+    {
+      "poster":"https://br.web.img3.acsta.net/pictures/14/12/02/22/15/327211.jpg",
+      "titulo":"A Teoria de Tudo",
+      "sinopse":"Baseado na história de Stephen Hawking, o filme expõe como o astrofísico fez descobertas relevantes para o mundo da ciência, inclusive relacionadas ao tempo. Também retrata seu romance com Jane Wilde, uma estudante de Cambridge que viria a se tornar sua esposa. Aos 21 anos de idade, Hawking descobriu que sofria de uma doença motora degenerativa, mas isso não o impediu de se tornar um dos maiores cientistas da atualidade.",
+      "genero":"Romance/Drama",
+      "diretor":"James Marsh",
+      "duracao":"2h 3min",
+      "classificacao":"10 anos",
+      "id": 3
+    },
+    {
+      "poster":"https://br.web.img3.acsta.net/pictures/19/07/23/15/48/1899385.jpg",
+      "titulo":"Harriet - O Caminho para a Liberdade",
+      "sinopse":"Harriet Tubman consegue escapar da escravidão e decide ajudar centenas de escravos a fugir do sul dos Estados Unidos durante a Guerra de Secessão norte-americana. Suas ações dão um novo direcionamento para a história e a ativista política se torna uma das maiores heroínas do país.",
+      "genero":"Drama/História",
+      "diretor":"Kasi Lemmons",
+      "duracao":"2h 5min",
+      "classificacao":"14 anos",
+      "id": 4
+    },
+    {
+      "poster":"https://upload.wikimedia.org/wikipedia/pt/b/b2/Monte_Carlo_Poster.jpg",
+      "titulo":"Monte Carlo",
+      "sinopse":"Grace e Emma pedem demissão de seus empregos como garçonetes em uma pequena cidade do Texas para conhecer Paris. A viagem é um verdadeiro fiasco até que Grace é confundida com uma socialite bem-sucedida e as garotas passam a usufruir de todas as regalias da alta sociedade.",
+      "genero":"Romance/Comédia",
+      "diretor":"Thomas Bezucha",
+      "duracao":"1h 49min",
+      "classificacao":"Livre",
+      "id": 5
+    },
+    {
+      "poster":"https://br.web.img3.acsta.net/medias/nmedia/18/87/77/49/19965563.jpg",
+      "titulo":"Deu a Louca na Chapeuzinho",
+      "sinopse":"A paz da floresta é abalada com o roubo de um livro de receitas. Os suspeitos: Chapeuzinho Vermelho, Lobo Mau, a Vovó e o Lenhador contam, cada um, uma história diferente, levando o chefe Grizzly e o detetive Bill Stork a investigar a verdade.",
+      "genero":"Infantil/Comédia ",
+      "diretor":"Cory Edwards",
+      "duracao":"1h 20min",
+      "classificacao":"Livre",
+      "id": 6
+    },
+    {
+      "poster":"https://br.web.img2.acsta.net/pictures/15/11/06/14/00/340662.jpg",
+      "titulo":"Quarto de Guerra",
+      "sinopse":"O relacionamento de Elizabeth e Tony passa por uma crise. Um dia, Elizabeth conhece uma mulher que lhe ensina o poder da oração e, a partir daí, ela aposta todas as fichas na sua fé e em suas rezas, a fim de salvar seu casamento.",
+      "genero":"Drama",
+      "diretor":"Alex Kendrick",
+      "duracao":"2h",
+      "classificacao":"10 anos",
+      "id": 7
+    },
+    {
+      "poster":"https://br.web.img3.acsta.net/c_310_420/pictures/20/02/06/21/26/5773795.jpg",
+      "titulo":"Enquanto Estivermos Juntos",
+      "sinopse":"Conheça a história da mega-estrela da música cristã, Jeremy Camp, e sua jornada inspiradora de esperança e fé em meio ao amor e perda.",
+      "genero":"Romance/Drama",
+      "diretor":"Andrew Erwin, Jon Erwin",
+      "duracao":"1h 55min",
+      "classificacao":"10 anos",
+      "id": 8
+    },
+    {
+      "poster":"https://br.web.img3.acsta.net/pictures/22/12/16/22/22/3984235.png",
+      "titulo":"Matilda: O Musical",
+      "sinopse":"Matilda, uma garota extraordinária armada com uma mente afiada e uma imaginação vívida, ousa se posicionar contra seus pais opressores e a diretora de sua escola para mudar sua vida.",
+      "genero":"Musical/Fantasia",
+      "diretor":"Matthew Warchus",
+      "duracao":"1h 57min",
+      "classificacao":"12 anos",
+      "id": 9
+    },
+    {
+      "poster":"https://br.web.img2.acsta.net/pictures/22/10/13/08/50/5768151.jpg",
+      "titulo":"Pinóquio",
+      "sinopse":"O desejo de um pai solitário dá vida magicamente a um boneco de madeira, seu nome é Pinóquio. Confuso por ser tão diferente das outras crianças, Pinóquio foge de casa para encontrar seu lugar no mundo e se depara com perigo e aventura.",
+      "genero":"Fantasia/Musical",
+      "diretor":"Guillermo del Toro, Mark Gustafson",
+      "duracao":"1h 54min",
+      "classificacao":"12 anos",
+      "id": 10
+    },
+    {
+      "poster":"https://br.web.img2.acsta.net/medias/nmedia/18/87/79/16/19961587.jpg",
+      "titulo":"Coraline e o Mundo",
+      "sinopse":"Enquanto explora sua nova casa à noite, a pequena Coraline descobre uma porta secreta que contém um mundo parecido com o dela, porém melhor em muitas maneiras. Todos têm botões no lugar dos olhos, os pais são carinhosos e os sonhos de Coraline viram realidade por lá. Ela se encanta com essa descoberta, mas logo percebe que segredos estranhos estão em ação: uma outra mãe e o resto de sua família tentam mantê-la eternamente nesse mundo paralelo.",
+      "genero":"Infantil/Fantasia",
+      "diretor":"Henry Selick",
+      "duracao":"1h 40min",
+      "classificacao":"10 anos",
+      "id": 11
+    },
+    {
+      "poster":"https://br.web.img3.acsta.net/medias/nmedia/18/90/48/68/20099172.jpg",
+      "titulo":"O Estranho Mundo de Jack",
+      "sinopse":"Jack Skellington, o Rei das Abóboras, se cansa de fazer o Dia das Bruxas todos os anos e deixa os limites da cidade. Por acaso, acaba atravessando o portal do Natal, onde vê a alegria do espírito natalino. Ao retornar para a Cidade do Halloween, sem ter compreendido o que viu, ele começa a convencer os cidadãos a sequestrarem o Papai Noel e fazerem seu próprio Natal. Apesar de sua leal namorada Sally ser contra, o Papai Noel é capturado e os fatos mostrarão que Sally estava certa o tempo todo.",
+      "genero":"Fantasia/Musical",
+      "diretor":"Henry Selick",
+      "duracao":"1h 16min",
+      "classificacao":"Livre",
+      "id": 12
+    },
+    {
+      "poster":"https://br.web.img3.acsta.net/pictures/22/11/08/17/28/3520682.png",
+      "titulo":"Olhos Famintos: Renascimento",
+      "sinopse":"O casal Chase e Laine vão para um festival onde Laine começa a ter premonições inexplicáveis e visões perturbadoras associadas ao passado da cidade. À medida que o festival começa, Laine acredita que um horror sobrenatural é invocado.",
+      "genero":"Terror/Thriller",
+      "diretor":"Timo Vuorensola",
+      "duracao":"1h 35min",
+      "classificacao":"16 anos",
+      "id": 13
+    },
+    {
+      "poster":"https://br.web.img3.acsta.net/pictures/17/03/30/22/44/345288.jpg",
+      "titulo":"It- A Coisa",
+      "sinopse":"Um grupo de crianças se une para investigar o misterioso desaparecimento de vários jovens em sua cidade. Eles descobrem que o culpado é Pennywise, um palhaço cruel que se alimenta de seus medos e cuja violência teve origem há vários séculos.",
+      "genero":"Terror/Thriller",
+      "diretor":"Andy Muschietti",
+      "duracao":"2h 49min",
+      "classificacao":"16 anos",
+      "id": 14
+    },
+    {
+      "poster":"https://br.web.img3.acsta.net/pictures/22/06/23/21/10/1998178.jpg",
+      "titulo":"O Telefone Preto",
+      "sinopse":"Finney Shaw, de 13 anos, é sequestrado por um sádico assassino mascarado e mantido em um porão à prova de som. Até que um telefone desconectado na parede começa a tocar, e ele logo descobre que pode ouvir as vozes das vítimas anteriores do maníaco.",
+      "genero":"Thriller/Drama",
+      "diretor":"Scott Derrickson",
+      "duracao":"1h 42min",
+      "classificacao":"16 anos",
+      "id": 15
+    }
+
+
+    ],
+    
+    "salgados": [
+      {
+        "produto1": "Pipoca",
+        "tamanho1": "P",
+        "tamanho2": "M",
+        "tamanho3": "G",
+        "id": 1
+      },
+      {
+        "produto2": "Biscoito",
+        "marca1": "Elma chips",
+        "marca2": "Piraquê",
+        "marca3": "Vale D´ouro",
+        "id": 2
+      },
+      {
+        "produto3": "Batata frita",
+        "tamanho1": "P",
+        "tamanho2": "M",
+        "tamanho3": "G",
+        "id": 3
+      },
+      {
+        "produto4": "Pão de queijo",
+        "tamanho1": "P",
+        "tamanho2": "M",
+        "tamanho3": "G",
+        "id": 4
+      }
+    ],
+  
+    "doces": [
+      {
+        "produto1": "Chocolates",
+        "marca1": "Nestlé",
+        "marca2": "Hershey´s",
+        "marca3": "Milka",
+        "id": 1
+      },
+        
+      { 
+        "produto2": "Gomas",
+        "marca1": "Fine",
+        "marca2": "Haribo",
+        "marca3": "Dori",
+        "id": 2
+      },
+        
+      {
+        "produto3": "Amendoins",
+        "marca1": "Yoki",
+        "marca2": "Dori",
+        "marca3": "Guimarães",
+        "id": 3
+      },
+        
+      {
+        "produto4": "Chicletes",
+        "marca1": "Trident",
+        "marca2": "Bubbaloo",
+        "marca3": "Fine",
+        "id": 4
+      }
+    ],
+  
+    "bebidas": [
+       {
+        "produto1": "Refrigarantes",
+        "marca1": "Coca-cola",
+        "marca2": "Guaraná",
+        "marca3": "Sprite",
+         "id": 1 
+      },
+        
+      { 
+        "produto2": "Sucos",
+        "marca1": "Del Valle",
+        "marca2": "DaFruta",
+        "marca3": "Maguary",
+        "id": 2
+      },
+        
+      {
+        "produto3": "Chás gelados",
+        "marca1": "Leão",
+        "marca2": "Lipton",
+        "marca3": "Rei do Mate",
+        "id": 3
+      },
+        
+      {
+        "produto4": "Outros",
+        "tipo1": "Água",
+        "tipo2": "Energético",
+        "tipo3": "Achocolatado",
+        "id": 4
+      }
+    ],
+      "localizacao": [
+      {
+          "estado": "São Paulo",
+          "municipio": "São Paulo",
+          "cep": "01307-001",
+          "id": 1
+      },
+      {
+          "estado": "Rio de Janeiro",
+          "municipio": "Rio de Janeiro",
+          "cep": "23045-830" ,
+          "id": 2 
+      },
+      {
+          "estado": "Santa Catarina",
+          "municipio": "Laguna",
+          "cep": "22793-100" ,
+          "id": 3
+      },
+      {
+          "estado": "Bahia",
+          "municipio": "Salvador",
+          "cep": "41820-021" ,
+          "id": 4  
+      },
+      {
+          "estado": "Amazônia",
+          "municipio": "Manaus",
+          "cep": "69050-010" ,
+          "id": 5   
+      },
+      {
+          "estado": "Minas Gerais",
+          "municipio": "Belo horizonte",
+          "cep": "30260-070" ,
+          "id": 6  
+      },
+      {
+          "estado": "Rio Grande do Sul",
+          "municipio": "Gramado",
+          "cep": "95670-000" ,
+          "id": 7  
+      }
+    ]
+  }
+  
