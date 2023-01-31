@@ -7,6 +7,7 @@
       "genero":"Ficção cientifica/drama",
       "diretor":"Christopher Nolan",
       "duracao":"2h 49min",
+      "ano":"2014",
       "classificacao":"10 anos",
       "id": 1
     },
@@ -17,6 +18,7 @@
       "genero":"Ação/Aventura",
       "diretor":"Zack Snyder",
       "duracao":"4h 2min",
+      "ano":"2021",
       "classificacao":"16 anos",
       "id": 2
     },
@@ -27,6 +29,7 @@
       "genero":"Romance/Drama",
       "diretor":"James Marsh",
       "duracao":"2h 3min",
+      "ano":"2014",
       "classificacao":"10 anos",
       "id": 3
     },
@@ -37,6 +40,7 @@
       "genero":"Drama/História",
       "diretor":"Kasi Lemmons",
       "duracao":"2h 5min",
+      "ano":"2019",
       "classificacao":"14 anos",
       "id": 4
     },
@@ -47,6 +51,7 @@
       "genero":"Romance/Comédia",
       "diretor":"Thomas Bezucha",
       "duracao":"1h 49min",
+      "ano":"2011",
       "classificacao":"Livre",
       "id": 5
     },
@@ -57,6 +62,7 @@
       "genero":"Infantil/Comédia ",
       "diretor":"Cory Edwards",
       "duracao":"1h 20min",
+      "ano":"2005",
       "classificacao":"Livre",
       "id": 6
     },
@@ -67,6 +73,7 @@
       "genero":"Drama",
       "diretor":"Alex Kendrick",
       "duracao":"2h",
+      "ano":"2015",
       "classificacao":"10 anos",
       "id": 7
     },
@@ -77,6 +84,7 @@
       "genero":"Romance/Drama",
       "diretor":"Andrew Erwin, Jon Erwin",
       "duracao":"1h 55min",
+      "ano":"2020",
       "classificacao":"10 anos",
       "id": 8
     },
@@ -87,6 +95,7 @@
       "genero":"Musical/Fantasia",
       "diretor":"Matthew Warchus",
       "duracao":"1h 57min",
+      "ano":"2022",
       "classificacao":"12 anos",
       "id": 9
     },
@@ -97,16 +106,18 @@
       "genero":"Fantasia/Musical",
       "diretor":"Guillermo del Toro, Mark Gustafson",
       "duracao":"1h 54min",
+      "ano":"2022",
       "classificacao":"12 anos",
       "id": 10
     },
     {
       "poster":"https://br.web.img2.acsta.net/medias/nmedia/18/87/79/16/19961587.jpg",
-      "titulo":"Coraline e o Mundo",
+      "titulo":"Coraline e o Mundo Secreto",
       "sinopse":"Enquanto explora sua nova casa à noite, a pequena Coraline descobre uma porta secreta que contém um mundo parecido com o dela, porém melhor em muitas maneiras. Todos têm botões no lugar dos olhos, os pais são carinhosos e os sonhos de Coraline viram realidade por lá. Ela se encanta com essa descoberta, mas logo percebe que segredos estranhos estão em ação: uma outra mãe e o resto de sua família tentam mantê-la eternamente nesse mundo paralelo.",
       "genero":"Infantil/Fantasia",
       "diretor":"Henry Selick",
       "duracao":"1h 40min",
+      "ano":"2009",
       "classificacao":"10 anos",
       "id": 11
     },
@@ -117,6 +128,7 @@
       "genero":"Fantasia/Musical",
       "diretor":"Henry Selick",
       "duracao":"1h 16min",
+      "ano":"1993",
       "classificacao":"Livre",
       "id": 12
     },
@@ -127,6 +139,7 @@
       "genero":"Terror/Thriller",
       "diretor":"Timo Vuorensola",
       "duracao":"1h 35min",
+      "ano":"2022",
       "classificacao":"16 anos",
       "id": 13
     },
@@ -137,17 +150,19 @@
       "genero":"Terror/Thriller",
       "diretor":"Andy Muschietti",
       "duracao":"2h 49min",
+      "ano":"2017",
       "classificacao":"16 anos",
       "id": 14
     },
     {
-      "poster":"https://br.web.img3.acsta.net/pictures/22/06/23/21/10/1998178.jpg",
-      "titulo":"O Telefone Preto",
-      "sinopse":"Finney Shaw, de 13 anos, é sequestrado por um sádico assassino mascarado e mantido em um porão à prova de som. Até que um telefone desconectado na parede começa a tocar, e ele logo descobre que pode ouvir as vozes das vítimas anteriores do maníaco.",
-      "genero":"Thriller/Drama",
-      "diretor":"Scott Derrickson",
+      "poster":"https://br.web.img3.acsta.net/pictures/18/03/01/20/26/0577579.jpg",
+      "titulo":"Um Lugar Silencioso",
+      "sinopse":"Em uma fazenda nos Estados Unidos, uma família do Meio-Oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.",
+      "genero":"Terror/Ficção científica",
+      "diretor":"John Krasinski",
       "duracao":"1h 42min",
-      "classificacao":"16 anos",
+      "ano":"2018",
+      "classificacao":"14 anos",
       "id": 15
     }
 
@@ -156,7 +171,7 @@
     
     "salgados": [
       {
-        "produto1": "Pipoca",
+        "produto": "Pipoca",
         "tamanho1": "P",
         "tamanho2": "M",
         "tamanho3": "G",
@@ -166,7 +181,7 @@
         "produto2": "Biscoito",
         "marca1": "Elma chips",
         "marca2": "Piraquê",
-        "marca3": "Vale D´ouro",
+        "marca3": "Vale D'ouro",
         "id": 2
       },
       {
@@ -189,7 +204,7 @@
       {
         "produto1": "Chocolates",
         "marca1": "Nestlé",
-        "marca2": "Hershey´s",
+        "marca2": "Hershey's",
         "marca3": "Milka",
         "id": 1
       },
@@ -297,4 +312,3 @@
       }
     ]
   }
-  
